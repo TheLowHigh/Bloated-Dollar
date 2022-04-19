@@ -5,28 +5,28 @@ A startpage looking like a terminal, with a lot of commands !
 ![](preview.png)
 
 # Premade commands
-reddit [subreddit]
-google [search]
-youtube [search]
-github [search]
-googletranslate [sentence] (or gt [sentence])
-googlemaps [search] (or gmaps [search])
-gmail [account_number]
-gdocs [account_number]
-gsheets [account_number]
-gforms [account_number]
-gdrive [account_number] (or googledrive [account_number])
-wikipedia [search]
-twitch [search]
-imdb [search]
-spotify [search]
-deezer [search]
-amazon [search]
-stackoverflow [search]
-discord
-code
-echo <what_you_want_to_echo>
-clear (or cls)
+reddit [subreddit]\
+google [search]\
+youtube [search]\
+github [search]\
+googletranslate [sentence] (or gt [sentence])\
+googlemaps [search] (or gmaps [search])\
+gmail [account_number]\
+gdocs [account_number]\
+gsheets [account_number]\
+gforms [account_number]\
+gdrive [account_number] (or googledrive [account_number])\
+wikipedia [search]\
+twitch [search]\
+imdb [search]\
+spotify [search]\
+deezer [search]\
+amazon [search]\
+stackoverflow [search]\
+discord\
+code\
+echo <what_you_want_to_echo>\
+clear (or cls)\
 time
 
 # How to add commands ?
